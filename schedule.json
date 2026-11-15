@@ -1,1 +1,440 @@
-{}
+{
+ "2026-11-16": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-06.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-07.jpg"
+     ],
+     "caption": "কোন বয়সে কোন খেলনা দেবেন? 🧸\n\n০ থেকে ৫ বছর — বয়স অনুযায়ী খেলনা বাছাইয়ের সহজ গাইড। আর কেনার আগে কী কী দেখবেন, সেটাও আছে শেষে। সোয়াইপ করে দেখুন 👉\n\nপরে কাজে লাগাতে সেভ করে রাখুন 📌\n\n#বাচ্চাদেরখেলনা #প্যারেন্টিংটিপস #খেলতেখেলতেশেখা #Kidomart #ToysBangladesh"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1116-01.jpg",
+     "caption": "কোন বয়সে কোন খেলনা দেবেন? 🧸\n\n০ থেকে ৫ বছর — বয়স অনুযায়ী খেলনা বাছাইয়ের সহজ গাইড। আর কেনার আগে কী কী দেখবেন, সেটাও আছে শেষে। সোয়াইপ করে দেখুন 👉\n\nপরে কাজে লাগাতে সেভ করে রাখুন 📌\n\n#বাচ্চাদেরখেলনা #প্যারেন্টিংটিপস #খেলতেখেলতেশেখা #Kidomart #ToysBangladesh"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1116.jpg",
+     "caption": "‘না’ বলতে বলতে ক্লান্ত? 😅\n\n‘দৌড়াবে না’ বললে বাচ্চা শোনে শুধু ‘দৌড়াবে’! তার বদলে বলুন কী করতে হবে — ‘আস্তে আস্তে হাঁটো’।\n\nআজ একবার চেষ্টা করে দেখুন, কমেন্টে জানাবেন কেমন কাজ করলো 👇\n\n#প্যারেন্টিংটিপস #মাবাবা #শিশুরযত্ন #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1116.jpg",
+     "caption": "‘না’ বলতে বলতে ক্লান্ত? 😅\n\n‘দৌড়াবে না’ বললে বাচ্চা শোনে শুধু ‘দৌড়াবে’! তার বদলে বলুন কী করতে হবে — ‘আস্তে আস্তে হাঁটো’।\n\nআজ একবার চেষ্টা করে দেখুন, কমেন্টে জানাবেন কেমন কাজ করলো 👇\n\n#প্যারেন্টিংটিপস #মাবাবা #শিশুরযত্ন #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r1.mp4",
+     "caption": "শীতের সকালে স্কুলের আগে প্রতিদিন তাড়াহুড়ো? ⏰\n\nরাতেই অর্ধেক কাজ সেরে ফেলুন — এই ৪টি ছোট ট্রিকে সকাল হবে অনেক শান্ত।\n\nকোন ট্রিকটা আপনি আগে থেকেই করেন? 👇\n\n#প্যারেন্টিংটিপস #স্কুলেরসকাল #মাবাবা #Kidomart #ParentingBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r1.mp4"
+   }
+  ]
+ },
+ "2026-11-17": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-06.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-07.jpg"
+     ],
+     "caption": "সোনামণি হাঁটা শিখছে? 👣\n\nপ্রথম জুতা কেনার আগে এই ৫টি কথা জেনে নিন — নরম সোল, হালকা ওজন, সহজ ভেলক্রো আর সঠিক মাপ।\n\nনতুন মা-বাবাদের সাথে শেয়ার করুন 💛\n\n#প্রথমজুতা #বাচ্চারজুতা #KidsShoesBD #Kidomart #প্যারেন্টিংটিপস"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1117-01.jpg",
+     "caption": "সোনামণি হাঁটা শিখছে? 👣\n\nপ্রথম জুতা কেনার আগে এই ৫টি কথা জেনে নিন — নরম সোল, হালকা ওজন, সহজ ভেলক্রো আর সঠিক মাপ।\n\nনতুন মা-বাবাদের সাথে শেয়ার করুন 💛\n\n#প্রথমজুতা #বাচ্চারজুতা #KidsShoesBD #Kidomart #প্যারেন্টিংটিপস"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1117.jpg",
+     "caption": "দাওয়াতের সিজন চলছে! ✨\n\nসুন্দর পোশাকের সাথে ঝলমলে LED জুতা — সবার নজর থাকবে সোনামণির পায়ে। আর পায়ে থাকবে আরাম।\n\nঅর্ডার করতে মেসেজ করুন 💌 ক্যাশ অন ডেলিভারি।\n\n#LEDShoes #বাচ্চারজুতা #KidsShoesBD #Kidomart #OnlineShoppingBD"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1117.jpg",
+     "caption": "দাওয়াতের সিজন চলছে! ✨\n\nসুন্দর পোশাকের সাথে ঝলমলে LED জুতা — সবার নজর থাকবে সোনামণির পায়ে। আর পায়ে থাকবে আরাম।\n\nঅর্ডার করতে মেসেজ করুন 💌 ক্যাশ অন ডেলিভারি।\n\n#LEDShoes #বাচ্চারজুতা #KidsShoesBD #Kidomart #OnlineShoppingBD"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r2.mp4",
+     "caption": "‘এটা আমার!’ — বাচ্চা খেলনা শেয়ার করতে চায় না? 🧸\n\nবকা দিয়ে নয়, এই ৪টি কৌশলে ধীরে ধীরে শেখান ভাগ করে খেলা।\n\nরিলটি সেভ করুন, অন্য মা-বাবাকে পাঠান 💛\n\n#প্যারেন্টিংটিপস #বাচ্চাদেরখেলনা #মাবাবা #Kidomart #ParentingBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r2.mp4"
+   }
+  ]
+ },
+ "2026-11-18": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-06.jpg"
+     ],
+     "caption": "মোবাইল ছাড়া বাচ্চা খেতে চায় না, ঘুমাতে চায় না? 📱\n\nএকদিনে বদলাবে না — কিন্তু খাওয়া, বিকেল আর ঘুমের আগে এই ছোট বদলগুলো শুরু করুন। সোয়াইপ করে দেখুন 👉\n\n#স্ক্রিনটাইম #প্যারেন্টিংটিপস #বাচ্চাদেরখেলনা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1118-01.jpg",
+     "caption": "মোবাইল ছাড়া বাচ্চা খেতে চায় না, ঘুমাতে চায় না? 📱\n\nএকদিনে বদলাবে না — কিন্তু খাওয়া, বিকেল আর ঘুমের আগে এই ছোট বদলগুলো শুরু করুন। সোয়াইপ করে দেখুন 👉\n\n#স্ক্রিনটাইম #প্যারেন্টিংটিপস #বাচ্চাদেরখেলনা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1118.jpg",
+     "caption": "আপনার সোনামণির প্রিয় খেলনা কোনটা? 🤔\n\n১ গাড়ি 🚗\n২ পুতুল 🧸\n৩ পাজল 🧩\n\nকমেন্টে শুধু নম্বরটা লিখুন 👇\n\n#বাচ্চাদেরখেলনা #মাবাবা #ToysBangladesh #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1118.jpg",
+     "caption": "আপনার সোনামণির প্রিয় খেলনা কোনটা? 🤔\n\n১ গাড়ি 🚗\n২ পুতুল 🧸\n৩ পাজল 🧩\n\nকমেন্টে শুধু নম্বরটা লিখুন 👇\n\n#বাচ্চাদেরখেলনা #মাবাবা #ToysBangladesh #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r3.mp4",
+     "caption": "বাইরে যাওয়া হচ্ছে না? ঘরেই করুন ছোট্ট পিকনিক! 🧺\n\nচাদরের তাঁবু, একসাথে নাস্তা আর খেলনার আসর — ছুটির দিনটা হয়ে যাবে স্মরণীয়।\n\nএই উইকেন্ডে চেষ্টা করবেন? 👇\n\n#ঘরেখেলা #বাচ্চাদেরখেলনা #প্যারেন্টিংটিপস #Kidomart #ReelsBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r3.mp4"
+   }
+  ]
+ },
+ "2026-11-19": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-05.jpg"
+     ],
+     "caption": "বার্ষিক পরীক্ষা শেষ, এবার ছুটি! 🎉\n\nঘরে আর বাইরে মিলিয়ে বাচ্চার জন্য ৭টি মজার কাজ — মোবাইল ছাড়াই কাটবে আনন্দের ছুটি। সোয়াইপ করে দেখুন 👉\n\n#ডিসেম্বরেরছুটি #প্যারেন্টিংটিপস #বাচ্চাদেরখেলনা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1119-01.jpg",
+     "caption": "বার্ষিক পরীক্ষা শেষ, এবার ছুটি! 🎉\n\nঘরে আর বাইরে মিলিয়ে বাচ্চার জন্য ৭টি মজার কাজ — মোবাইল ছাড়াই কাটবে আনন্দের ছুটি। সোয়াইপ করে দেখুন 👉\n\n#ডিসেম্বরেরছুটি #প্যারেন্টিংটিপস #বাচ্চাদেরখেলনা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1119.jpg",
+     "caption": "কুইজ টাইম! 🧠\n\nবেশিরভাগ বাচ্চা কখন হাঁটা শুরু করে?\nA, B নাকি C? কমেন্টে উত্তর দিন 👇 সঠিক উত্তর কাল জানাবো!\n\n#প্রথমজুতা #প্যারেন্টিংটিপস #মাবাবা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1119.jpg",
+     "caption": "কুইজ টাইম! 🧠\n\nবেশিরভাগ বাচ্চা কখন হাঁটা শুরু করে?\nA, B নাকি C? কমেন্টে উত্তর দিন 👇 সঠিক উত্তর কাল জানাবো!\n\n#প্রথমজুতা #প্যারেন্টিংটিপস #মাবাবা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r4.mp4",
+     "caption": "কান্না থামাতে মোবাইল হাতে দেন? 📵\n\nআজ একবার এই ৪টি উপায় চেষ্টা করুন — জড়িয়ে ধরা, অনুভূতির নাম দেওয়া, বেলুন শ্বাস আর প্রিয় খেলনা।\n\nকোনটা আপনার বাচ্চার সাথে কাজ করে? 👇\n\n#প্যারেন্টিংটিপস #স্ক্রিনটাইম #মাবাবা #Kidomart #ParentingBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r4.mp4"
+   }
+  ]
+ },
+ "2026-11-20": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-06.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-07.jpg"
+     ],
+     "caption": "বিয়ে-দাওয়াতে গেলে বাচ্চা বিরক্ত হয়ে কান্না করে? 😓\n\nআরামের পোশাক, আগে থেকে অভ্যস্ত জুতা, ব্যাগে ছোট খেলনা — এই ৫টি টিপসে দাওয়াত হবে আনন্দের। সোয়াইপ করে দেখুন 👉\n\n#দাওয়াতসিজন #প্যারেন্টিংটিপস #বাচ্চারজুতা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1120-01.jpg",
+     "caption": "বিয়ে-দাওয়াতে গেলে বাচ্চা বিরক্ত হয়ে কান্না করে? 😓\n\nআরামের পোশাক, আগে থেকে অভ্যস্ত জুতা, ব্যাগে ছোট খেলনা — এই ৫টি টিপসে দাওয়াত হবে আনন্দের। সোয়াইপ করে দেখুন 👉\n\n#দাওয়াতসিজন #প্যারেন্টিংটিপস #বাচ্চারজুতা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1120.jpg",
+     "caption": "আজকের ছোট্ট জুতা, কালকের মিষ্টি স্মৃতি 💗\n\nসোনামণির প্রথম জুতাটা কি এখনো যত্ন করে রেখে দিয়েছেন? কমেন্টে ‘হ্যাঁ’ লিখুন, আর পারলে ছবি দিন 👇\n\n#প্রথমজুতা #মাবাবা #বাচ্চারজুতা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1120.jpg",
+     "caption": "আজকের ছোট্ট জুতা, কালকের মিষ্টি স্মৃতি 💗\n\nসোনামণির প্রথম জুতাটা কি এখনো যত্ন করে রেখে দিয়েছেন? কমেন্টে ‘হ্যাঁ’ লিখুন, আর পারলে ছবি দিন 👇\n\n#প্রথমজুতা #মাবাবা #বাচ্চারজুতা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r5.mp4",
+     "caption": "এখনো আপনিই জুতা পরিয়ে দেন? 👟\n\n২-৩ বছর থেকেই শেখাতে পারেন — স্টিকার কৌশলে আর ডান-বাম গুলিয়ে যাবে না! ৪টি সহজ ধাপ দেখুন।\n\n(কালকের কুইজের উত্তর: B — বেশিরভাগ বাচ্চা ৯–১৫ মাসে হাঁটা শুরু করে 👏)\n\n#বাচ্চারজুতা #প্যারেন্টিংটিপস #KidsShoesBD #Kidomart #ReelsBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r5.mp4"
+   }
+  ]
+ },
+ "2026-11-21": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-06.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-07.jpg"
+     ],
+     "caption": "ঘরজুড়ে খেলনা ছড়ানো? 🧺\n\nবকা না দিয়ে খেলতে খেলতেই শেখান গোছানোর অভ্যাস — গান, রঙিন ঝুড়ি আর রেস খেলা দিয়ে। সোয়াইপ করে ৫টি কৌশল দেখুন 👉\n\n#ভালোঅভ্যাস #বাচ্চাদেরখেলনা #প্যারেন্টিংটিপস #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1121-01.jpg",
+     "caption": "ঘরজুড়ে খেলনা ছড়ানো? 🧺\n\nবকা না দিয়ে খেলতে খেলতেই শেখান গোছানোর অভ্যাস — গান, রঙিন ঝুড়ি আর রেস খেলা দিয়ে। সোয়াইপ করে ৫টি কৌশল দেখুন 👉\n\n#ভালোঅভ্যাস #বাচ্চাদেরখেলনা #প্যারেন্টিংটিপস #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1121.jpg",
+     "caption": "দিনে মাত্র ২০ মিনিট ⏱️\n\nমোবাইল দূরে রেখে বাচ্চার সাথে মেঝেতে বসে খেলুন — ব্লক, গাড়ি, পাজল যা খুশি। এই সময়টুকুই ওর কাছে সবচেয়ে দামি।\n\nআজ কী খেলবেন? 👇\n\n#প্যারেন্টিংটিপস #খেলতেখেলতেশেখা #মাবাবা #Kidomart #BangladeshiParents"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1121.jpg",
+     "caption": "দিনে মাত্র ২০ মিনিট ⏱️\n\nমোবাইল দূরে রেখে বাচ্চার সাথে মেঝেতে বসে খেলুন — ব্লক, গাড়ি, পাজল যা খুশি। এই সময়টুকুই ওর কাছে সবচেয়ে দামি।\n\nআজ কী খেলবেন? 👇\n\n#প্যারেন্টিংটিপস #খেলতেখেলতেশেখা #মাবাবা #Kidomart #BangladeshiParents"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r6.mp4",
+     "caption": "ডিসেম্বরের ছুটিতে বেড়াতে যাচ্ছেন? 🎒\n\nবাচ্চার ব্যাগে এই ৫টি জিনিস রাখতে ভুলবেন না — আরামদায়ক জুতা থেকে হালকা জ্যাকেট পর্যন্ত।\n\nসেভ করে রাখুন, যাওয়ার আগে কাজে লাগবে 📌\n\n#ডিসেম্বরেরছুটি #বাচ্চারজুতা #প্যারেন্টিংটিপস #Kidomart #ParentingBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r6.mp4"
+   }
+  ]
+ },
+ "2026-11-22": {
+  "carousel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_carousel_post",
+    "params": {
+     "image_urls": [
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-01.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-02.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-03.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-04.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-05.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-06.jpg",
+      "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-07.jpg"
+     ],
+     "caption": "প্রিয় জুতাটা টিকুক অনেকদিন 👟\n\nLED জুতা মেশিনে ধোবেন না, কড়া রোদে শুকাবেন না — আরও ৫টি সহজ যত্নের টিপস সোয়াইপ করে দেখুন 👉\n\n#জুতারযত্ন #বাচ্চারজুতা #LEDShoes #Kidomart #KidsShoesBD"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-car-1122-01.jpg",
+     "caption": "প্রিয় জুতাটা টিকুক অনেকদিন 👟\n\nLED জুতা মেশিনে ধোবেন না, কড়া রোদে শুকাবেন না — আরও ৫টি সহজ যত্নের টিপস সোয়াইপ করে দেখুন 👉\n\n#জুতারযত্ন #বাচ্চারজুতা #LEDShoes #Kidomart #KidsShoesBD"
+    }
+   }
+  ],
+  "image": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_image_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1122.jpg",
+     "caption": "ছুটির সন্ধ্যায় আলো ঝলমলে হাঁটা ✨\n\nপার্কে, বেড়াতে, পিকনিকে — প্রতিটি পদক্ষেপে জ্বলে ওঠে আলো। হালকা আর আরামদায়ক।\n\nঅর্ডার করতে মেসেজ করুন 💌 ক্যাশ অন ডেলিভারি।\n\n#LEDShoes #বাচ্চারজুতা #KidsShoesBD #Kidomart #OnlineShoppingBD"
+    }
+   },
+   {
+    "connector": "facebook_organic",
+    "account": "1303818262803831",
+    "action": "create_photo_post",
+    "params": {
+     "image_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/posts/n-img-1122.jpg",
+     "caption": "ছুটির সন্ধ্যায় আলো ঝলমলে হাঁটা ✨\n\nপার্কে, বেড়াতে, পিকনিকে — প্রতিটি পদক্ষেপে জ্বলে ওঠে আলো। হালকা আর আরামদায়ক।\n\nঅর্ডার করতে মেসেজ করুন 💌 ক্যাশ অন ডেলিভারি।\n\n#LEDShoes #বাচ্চারজুতা #KidsShoesBD #Kidomart #OnlineShoppingBD"
+    }
+   }
+  ],
+  "reel": [
+   {
+    "connector": "instagram",
+    "account": "17841445144354723",
+    "action": "create_video_post",
+    "params": {
+     "video_url": "https://mxshahan.github.io/kidomart-media/w1/reels/kidomart-r7.mp4",
+     "caption": "বাচ্চার আত্মবিশ্বাস বাড়াতে প্রতিদিন বলুন এই ৪টি কথা 💬\n\nছোট কথা, কিন্তু ওর মনে থেকে যায় সারাজীবন।\n\nকোন কথাটা আপনি আজ বলবেন? কমেন্টে লিখুন 👇\n\n#প্যারেন্টিংটিপস #শিশুরমনোবিকাশ #মাবাবা #Kidomart #ParentingBangladesh",
+     "share_to_feed": true
+    },
+    "fallback_video_url": "https://raw.githubusercontent.com/mxshahan/kidomart-media/main/w1/reels/kidomart-r7.mp4"
+   }
+  ]
+ }
+}
